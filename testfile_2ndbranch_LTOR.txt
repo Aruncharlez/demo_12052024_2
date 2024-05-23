@@ -1,0 +1,1 @@
+A content item is any digital content that is delivered to audiences. It is based on a content type, which provides the structural framework for the content item.
